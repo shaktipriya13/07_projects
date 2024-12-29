@@ -2,7 +2,7 @@
 #Projects related to DOM
 ## project links:
 
-[Click here](ddddd)
+[Click here](/01%20basics/01%20variables.js)
 
 # Solution Code
 

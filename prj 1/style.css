@@ -1,0 +1,37 @@
+html {
+    margin: 200px;
+    /* margin-top: 400px; */
+  }
+  
+  span {
+    display: block;
+  }
+  /* .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  } */
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #green {
+    background: green;
+  }
+  
+  #black {
+    background: rgb(87, 87, 87);
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+  .button {
+    cursor: pointer; /* Makes it clear the buttons are clickable */
+}
